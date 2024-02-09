@@ -1,0 +1,14 @@
+compile.h filter=lfs diff=lfs merge=lfs -text
+compileSequential filter=lfs diff=lfs merge=lfs -text
+compileSHE.cpp filter=lfs diff=lfs merge=lfs -text
+planSchedule filter=lfs diff=lfs merge=lfs -text
+compileTempo filter=lfs diff=lfs merge=lfs -text
+compileTempoParallel.o filter=lfs diff=lfs merge=lfs -text
+compileSequential.cpp filter=lfs diff=lfs merge=lfs -text
+compileSHE filter=lfs diff=lfs merge=lfs -text
+compileSHE.o filter=lfs diff=lfs merge=lfs -text
+compileTempo.cpp filter=lfs diff=lfs merge=lfs -text
+compileSequential.o filter=lfs diff=lfs merge=lfs -text
+compileTempo.o filter=lfs diff=lfs merge=lfs -text
+compileTempoParallel filter=lfs diff=lfs merge=lfs -text
+compileTempoParallel.cpp filter=lfs diff=lfs merge=lfs -text
