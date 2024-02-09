@@ -4,3 +4,6 @@
 [submodule "VAL"]
 	path = VAL
 	url = https://github.com/KCL-Planning/VAL.git
+[submodule "lpg/llm-lpg"]
+	path = lpg/llm-lpg
+	url = https://github.com/matthewmarquez/llm-lpg
